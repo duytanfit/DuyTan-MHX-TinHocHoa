@@ -1,0 +1,33 @@
+.col-md-3{
+    background-color: mediumorchid;
+}
+.header{
+    background-color: mediumorchid;
+    color: #d5d5d5;
+}
+i{
+    color: #d5d5d5;
+}
+
+.list-group-item{
+    background-color: mediumorchid;
+    color: #d5d5d5;
+}
+.header2{
+    font-family: Arial;
+    color: #0f0f0f;
+    font-style: normal;
+    font-size: 160%;
+}
+.form-group{
+    font-family: Arial;
+    color: #adadad;
+    font-style: normal;
+
+}
+.image{
+
+}
+.avatar{
+
+}
